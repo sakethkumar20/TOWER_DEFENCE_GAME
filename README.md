@@ -1,15 +1,11 @@
 # TOWER_DEFENCE_GAME
-
-Set up the game window with the necessary dimensions, event handlers, and clock FPS.
-Created enemy instances using enemy images, optimized for game performance, and organized them in enemy groups.
-Implemented movement for enemies along temporary waypoints with rotation functionality.
-Utilized the 2-d tiled editor to create the game world and processed data from the .tmj file.
-Implemented turret placement on valid areas and displayed turrets using turret groups.
-Integrated buy and cancel buttons with corresponding functionalities.
-Animated turret images using Spritesheets and managed animations.
-Enabled turret rotation for enemy targeting.
-Implemented upgrade functionality to improve turret range and cooldown by importing turret_data file.
-Managed enemy waves based on levels with data from enemy_data file.
-Displayed health and money on the screen using draw_text() method, updated health upon enemy-turret interactions.
-Implemented begin round button to initiate gameplay and handled gameover and victory conditions.
-Enhanced the display with coin and heart images and added sound effects and background music.
+ABOUT PROJECT:
+----------------
+1) This is a simple 2-D Game built-in Python from scratch with an interest in Gaming.
+2) In this game, we have to kill the enemies before they reach the end of the tower. This game contains almost 15 levels with 4 different upgrading versions of turrets. And 4 different levels of enemies. (Slow, Medium, Fast, Elite).
+3) We can upgrade turrets, buy turrets and place them at different locations for attacking the enemies.
+4) The game finishes when we lose all our lives or all the enemies were killed.
+5) Used Py-game library for implementing the gaming features.
+6) Utilized the 2-d tiled editor to create the game world and processed data from the .tmj file.
+7) Used Spritesheets for the turret animations.
+8) Added a piece of soothing background music for a better experience for the user.
