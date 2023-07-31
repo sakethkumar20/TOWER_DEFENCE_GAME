@@ -13,4 +13,5 @@ ABOUT PROJECT:
 
 SCREENSHOTS:
 -------------
-![image](Screenshot (2).png)
+
+![Screenshot (2)](https://github.com/sakethkumar20/TOWER_DEFENCE_GAME/assets/88393802/400e4b44-5fd1-4280-9e78-44589256d56a)
