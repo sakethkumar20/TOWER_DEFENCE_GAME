@@ -9,3 +9,8 @@ ABOUT PROJECT:
 6) Utilized the 2-d tiled editor to create the game world and processed data from the .tmj file.
 7) Used Spritesheets for the turret animations.
 8) Added a piece of soothing background music for a better experience for the user.
+
+
+SCREENSHOTS:
+-------------
+![](https://drive.google.com/file/d/1yvvGC8rcHJUH_7ykHUhPvKqAHFwdwfkT/view?usp=drive_link)
