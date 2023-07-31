@@ -13,4 +13,4 @@ ABOUT PROJECT:
 
 SCREENSHOTS:
 -------------
-![image](https://drive.google.com/file/d/1yvvGC8rcHJUH_7ykHUhPvKqAHFwdwfkT/view?usp=drive_link)
+![image](Screenshot (2).png)
